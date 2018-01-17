@@ -1,0 +1,16 @@
+
+
+{% extends 'base.html' %}
+
+<h1>
+home
+</h1>
+<html>
+<head>
+{% block head %}
+<title>Home</title>
+{% endlock %}
+</head>
+<body>
+</body>
+</html>
